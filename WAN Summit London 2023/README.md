@@ -10,9 +10,10 @@
 
 ## Case Studies 
 
-TBC
+- [ÖBB TicketShop](https://customers.microsoft.com/en-gb/story/1544373307420093342-obb-travel-and-transportation-azure)
+
+- [AT&T](https://customers.microsoft.com/en-gb/story/1390001334895632063-att-telecommunications-private-link)
 
 ## Resources 
-
-TBD
-
+  
+- [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
