@@ -15,5 +15,6 @@
 - [AT&T](https://customers.microsoft.com/en-gb/story/1390001334895632063-att-telecommunications-private-link)
 
 ## Resources 
+- [Cost of a Data Breach 2022](https://www.ibm.com/reports/data-breach)
   
 - [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
