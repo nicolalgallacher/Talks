@@ -19,4 +19,4 @@
   
 - [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
 
-- [Zero Trust with Azure Virtual WAN](https://learn.microsoft.com/en-gb/security/zero-trust/azure-virtual-wan)
+- [Virtual Networks with Azure Open AI and Cognitive Services](https://learn.microsoft.com/en-gb/azure/cognitive-services/cognitive-services-virtual-networks?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&tabs=portal)
