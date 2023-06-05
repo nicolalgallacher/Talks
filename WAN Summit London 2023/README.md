@@ -21,7 +21,7 @@
 ## Useful Resources
 
 - [Zero Trust Security](https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust)
-- 
+
 - [Zero Trust Networking with Azure vWAN](https://learn.microsoft.com/en-us/security/zero-trust/azure-virtual-wan)
    
 - [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
